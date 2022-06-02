@@ -51,7 +51,7 @@ function task(i) {
 	}
 	else{
 		bot.chat("Subscribe To MannuG : https://www.youtube.com/channel/UCSZHRnBue50ImBKeR6k6eDg")
-		first = true;
+		first = false;
 	}
   }, 3600000 * i); 
 } 
